@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act for the setling of Ireland Thursday 12, August, 1652. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <title>Public General Acts. 1652.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82462</idno>
+            <idno type="STC">Wing E1123B</idno>
+            <idno type="STC">ESTC R232005</idno>
+            <idno type="EEBO-CITATION">99897648</idno>
+            <idno type="PROQUEST">99897648</idno>
+            <idno type="VID">133330</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133330)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2514:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act for the setling of Ireland Thursday 12, August, 1652. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <title>Public General Acts. 1652.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 8+ p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn field, printer to the Parliament of England. 1652. And by special command reprinted at Dublin by Wil. Bladen,</publisher>
+                  <pubPlace>[Dublin] :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Ldw copy, reel 2514, is missing all after p. 8.</note>
+                  <note>Reproduction of original in the Dr. Williams's Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133330:1"/>
+            <!-- PDF PAGE 7 -->
+            <pb facs="tcp:133330:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>AN ACT for the SETLING <hi>OF</hi> IRELAND.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Thurſday 12 <hi>Auguſt,</hi> 1652.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the <hi>PARLIAMENT,</hi> That this Act be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Hen: Scobel,</hi> Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed by IOHN FIELD, Printer to the <hi>Parliament</hi> of ENGLAND. 1652.</p>
+            <p>And by ſpecial Command Reprinted at DUBLIN by WIL. BLADEN. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:133330:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>
+               <figure>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <pb n="1" facs="tcp:133330:2"/>
+            <!-- PDF PAGE 8 -->
+            <head>AN ACT for the SETLING <hi>OF</hi> IRELAND.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Parliament of ENG<g ref="char:EOLhyphen"/>LAND, after the expence of much Bloud and Treaſure, for ſuppreſſi<g ref="char:EOLhyphen"/>on of the horrid Rebellion in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> Have, by the good hand of God upon their undertakings, brought that Affair to ſuch an Iſ<g ref="char:EOLhyphen"/>ſue, as that a total Reducement and Settlement of that Nation may, which Gods bleſſing, be ſpeedily effected: To the end therefore that the Peo<g ref="char:EOLhyphen"/>ple of that Nation may know, that it is not the intention of the Parliament to extirpate that whole Nation, but
+<pb n="2" facs="tcp:133330:3"/>
+               <!-- PDF PAGE 9 -->that Mercie &amp; Pardon, both as to life and Eſtate, may be extended to all Husband-men, Plow-men, Labourers, Ar<g ref="char:EOLhyphen"/>tificers, &amp; others of the inferior ſort, in manner as is here<g ref="char:EOLhyphen"/>after declared; They ſubmitting themſelves to the <hi>Parli<g ref="char:EOLhyphen"/>ament of the Common-wealth of</hi> ENGLAND, and living peaceably and obediently under their Government: And that others alſo of higher Rank and Qualitie may know the Parliaments intention concerning them, according to the reſpective Demerits and Conſiderations under which they fall; Be it Enacted and Declared by this preſent Par<g ref="char:EOLhyphen"/>liament, and by the Authoritie of the ſame, That all and every perſon and perſons of the <hi>Iriſh</hi> Nation, compre<g ref="char:EOLhyphen"/>hended in any of the following Qualifications, ſhall be liable unto the Penalties and Forfeitures therein mention<g ref="char:EOLhyphen"/>ed and contained; or be made capable of the Mercie and Pardon therein extended reſpectively, according as is hereafter Expreſſed and Declared: That is to ſay,</p>
+            <p n="1">I. THat all and every Perſon and Perſons, who at any time before the Tenth day of <hi>November,</hi> One thouſand ſix hundred fourtie two, (being the time of the ſitting of the firſt General Aſſembly at <hi>Kilkennie</hi> in <hi>Ireland</hi>) have Contrived, Adviſed, Counſelled, Promoted or Acted, the Rebellion, Murthers or Maſſacres done or committed in <hi>Ireland,</hi> which began in the Year One thouſand ſix hundred fourtie one: or have at any time before the ſaid Tenth day of <hi>November,</hi> One thouſand ſix hundred four<g ref="char:EOLhyphen"/>tie two, by bearing Arms, or contributing Men, Ar<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Horſe, Plate, Money, Victual, or other Furniture <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Habiliments of Warr (other than ſuch which they ſhall make to appear to have been taken from them by meet
+<pb n="3" facs="tcp:133330:3"/>
+               <!-- PDF PAGE 9 -->force and violence) aided, aſſiſted, promoted, acted, pro<g ref="char:EOLhyphen"/>ſecuted or abetted the ſaid Rebellion, Murthers or Maſſa<g ref="char:EOLhyphen"/>cres, be excepted from Pardon of Life and Eſtate.</p>
+            <p n="2">II. That all and every Ieſuite, Prieſt, and other perſon or perſons who have received Orders from the Pope or Sea of <hi>Rome,</hi> or any Authoritie derived from the ſame, that have any ways contrived, adviſed, counſelled, promoted, continued, countenanced, aided, aſſiſted or abetted; or at any time hereafter ſhall any ways contrive, adviſe, counſel, promote, continue, countenance, aid, aſſiſt or abet the Re<g ref="char:EOLhyphen"/>bellion or Warr in <hi>Ireland,</hi> or any the Murthers or Maſſa<g ref="char:EOLhyphen"/>cres, Robberies or violencies committed againſt the Pro<g ref="char:EOLhyphen"/>teſtants Engliſh or others there, be excepted from Pardon for Life and Eſtate.</p>
+            <p n="3">III. That <!-- LB -->
+<hi rend="blackletterType">Iames Butler</hi> Earl of <hi rend="italic">Ormond,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Iames Tou<g ref="char:EOLhyphen"/>chet</hi> Earl of <hi rend="italic">Caſtlehaven,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Vllick Bourk</hi> Earl of <hi rend="italic">Clanric<g ref="char:EOLhyphen"/>kard,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Chriſtopher Plunket</hi> Earl of <hi rend="italic">Fingall,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Iames Dillon</hi> Earl of <hi rend="italic">Roſcommon,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Richard Nugent</hi> Earl of <hi rend="italic">Weſtmeath,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Morrogh O Brien</hi> Baron of <hi rend="italic">Inchiquin,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Do<g ref="char:EOLhyphen"/>nogh Mac Carthy</hi> Viſcount <hi rend="italic">Muskerie,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Theobald Taaff</hi> Viſcount <hi rend="italic">Taaff</hi> of <hi rend="italic">Corren,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Richard Butler</hi> Viſ<g ref="char:EOLhyphen"/>count <hi rend="italic">Mountgarret,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Roch</hi> Viſcount <hi rend="italic">Fernjoy,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Montgomery</hi> Viſcount <hi rend="italic">Montgomery</hi> of <hi rend="italic">Ards,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Magennis</hi> Viſcount of <hi rend="italic">Iveah,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Fle<g ref="char:EOLhyphen"/>ming</hi> Baron of <hi rend="italic">Slane,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Dempſey</hi> Viſcount of <hi rend="italic">Glanmaleer,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Bermingham</hi> Baron of <hi rend="italic">Athenry,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Oliver Plunket</hi> Baron of <hi rend="italic">Lowth,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Robert Barnwal</hi> Baron of <hi rend="italic">Trymletſ-town,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Miles Bourk</hi> Viſcount <hi rend="italic">Mayo,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Connor Magwire</hi> Baron of <hi rend="italic">Eniskellen,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Nicholas Pre<g ref="char:EOLhyphen"/>ſton</hi> Viſcount <hi rend="italic">Gormanſtown,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Nicholas Nettervil</hi> Viſ<g ref="char:EOLhyphen"/>count <pb n="4" facs="tcp:133330:4"/>
+               <!-- PDF PAGE 10 -->
+               <hi rend="italic">Nettervil</hi> of <hi rend="italic">Dowth,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Iohn Bramhal</hi> late Biſhop of <hi rend="italic">Derry,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Iames Cuſack</hi> Eſquire,<!-- LB -->
+<hi rend="blackletterType">Thomas Tyrrel</hi> Eſ<g ref="char:EOLhyphen"/>quire,<!-- LB -->
+<hi rend="blackletterType">Peter Clinton</hi> Eſquire,<!-- LB -->
+Sir <hi rend="blackletterType">Phelim O Neil,</hi>
+               <!-- LB -->
+Sir <hi rend="blackletterType">George Monroe,</hi>
+               <!-- LB -->
+Sir <hi rend="blackletterType">Iames Montogomerie</hi> and Sir <hi rend="italic">Robert Stewart</hi> Knights,<!-- LB -->
+Sir <hi rend="blackletterType">Con Magennis</hi> of the Countie of <hi rend="italic">Down</hi> Knight,<!-- LB -->
+Sir <hi rend="blackletterType">Luke Fitz-Gerald</hi> of <hi rend="italic">Te<g ref="char:EOLhyphen"/>croghan</hi> Knight,<!-- LB -->
+Sir <hi rend="blackletterType">Richard Barnwal</hi> of <hi rend="italic">Crickſtown</hi> Knight,<!-- LB -->
+Sir <hi rend="blackletterType">Iohn Nettervil</hi> Knight,<!-- LB -->
+Sir <hi rend="blackletterType">Thomas Eſ<g ref="char:EOLhyphen"/>mond</hi> of the Countie of <hi rend="italic">Wexford</hi> Knight,<!-- LB -->
+Sir <hi rend="blackletterType">Iohn Ma<g ref="char:EOLhyphen"/>gragh</hi> of the Countie of <hi rend="italic">Tipperary,</hi>
+               <!-- LB -->
+Sir <hi rend="blackletterType">Theobald Bourk</hi> ſon of the Viſcount <hi rend="italic">Mayo,</hi>
+               <!-- LB -->
+Colonel <hi rend="blackletterType">Thomas Preſton,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Hugh Buy O Neil,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Luke Taaff</hi> Brother of the Viſcount <hi rend="italic">Taaff,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Geoffry Brown</hi> Eſquire,<!-- LB -->
+<hi rend="blackletterType">Geoffry Baron,</hi> 
+               <hi rend="blackletterType">Patrick Darcy,</hi> and <hi rend="blackletterType">Nicholas Plunket</hi> Eſ<g ref="char:EOLhyphen"/>quires,<!-- LB -->
+<hi rend="blackletterType">
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Fennel</hi> Doctor of <hi rend="italic">Phyſick,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Hugh Mac Phelim Birn</hi> of the Countie of <hi rend="italic">Wicklow,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Florence Fitz-Patrick</hi> of the <hi rend="italic">Queens</hi> Countie Eſquire,
+Colonel <!-- LB --><hi rend="blackletterType">Iohn Fitz-Patrick</hi> ſon of <hi rend="blackletterType">Florence,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Roger Moore</hi> of <hi rend="italic">Ballyna</hi> in the Countie of <hi rend="italic">Kildare,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Tirlogh Roe O Neil</hi> Brother to Sir <hi rend="blackletterType">Phelim O Neil,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Mulmurry Mac Swyne,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Donnel Oge Magennis,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Iohn Morti<g ref="char:EOLhyphen"/>mer,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Rory Magwyre</hi> of the Countie of <hi rend="italic">Fermanagh,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Rory Mac Brien Oge Magennis,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Even Magen<g ref="char:EOLhyphen"/>nis</hi> of <hi rend="italic">Caſtle-vellan,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Edmund Buy Magennis,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Shane Mac Brien O Neil,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Tirlogh Magragh</hi> ſon of <hi rend="blackletterType">Iames Magragh,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Tirlogh Mac Caffry O Donnel,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Brien Modder O Quynne,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Brien O Mulcrevy,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Patrick Groom O Mulcrevy,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Tirlogh Groom O Quynne</hi> of <hi rend="italic">Monagowre</hi> in the Countie of <hi rend="italic">Tyrone,</hi>
+               <!-- LB -->
+Colo<g ref="char:EOLhyphen"/>nel <hi rend="blackletterType">Manus Roe O Chahan,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Toole Mac Machan,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Malter Bagnal</hi> Eſquire,<!-- LB -->
+<hi rend="blackletterType">Edmund Bourk,</hi> of <hi rend="italic">Cloghan</hi> in the Countie of <hi rend="italic">Mayo,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Purſel</hi> of <hi rend="italic">Tipperary,</hi> 
+               <pb n="5" facs="tcp:133330:4"/>
+               <!-- PDF PAGE 10 -->Baron of <hi rend="italic">Loghmo,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Thomas Cantwel</hi> of <hi rend="italic">Cantwels-Court</hi> in the Countie of <hi rend="italic">Kilkennie,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Edward Huſſey</hi> of <hi rend="italic">Moyl Huſſey</hi> in the Countie of <hi rend="italic">Meath,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Hugh Huſſey</hi> of <hi rend="italic">Galtrim,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Iohn Bellew</hi> of <hi rend="italic">Willyſtown</hi> in the Countie of <hi rend="italic">Lowth</hi> Eſ<g ref="char:EOLhyphen"/>quire,<!-- LB -->
+<hi rend="blackletterType">Philip Mac Hugh O Reyly</hi> of the Countie of <hi rend="italic">Cavan,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Mulmurry O Reyly</hi> of the Countie of <hi rend="italic">Cavan,</hi>
+               <!-- LB -->
+Colonel <hi rend="blackletterType">Mac Brien Mac Mahown</hi> of the Countie of <hi rend="italic">Monaghan,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Lyſath Moore</hi> brother of <hi rend="blackletterType">Roger Moore</hi> before mentioned,<!-- LB -->
+<hi rend="blackletterType">Neil Mac Kenna</hi> of the <hi rend="italic">Trough</hi> in the Countie of <hi rend="italic">Monaghan,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Richard Belling</hi> Eſquire ſon of Sir <hi rend="blackletterType">Henry Belling</hi> Knight,<!-- LB -->
+<hi rend="blackletterType">Laurence Dowdal</hi> of <hi rend="italic">Athlumney</hi> Eſquire,<!-- LB -->
+Captain <hi rend="blackletterType">Arthur Fox</hi> of <hi rend="italic">Crumlin</hi> in the Countie of <hi rend="italic">Dublin,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Brien Mac Phelim Birn</hi> of the Countie of <hi rend="italic">Wicklow,</hi>
+               <!-- LB -->
+Colonel <hi rend="blackletterType">Luke Tool</hi> of <hi rend="italic">Caſtle<g ref="char:EOLhyphen"/>kevin</hi> in the Countie of <hi rend="italic">Wicklow,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Iohn Crean</hi> of <hi rend="italic">Sligo,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Anthony Brabazon</hi> of <hi rend="italic">Ballinaſloe</hi> in the Countie of <hi rend="italic">Roſ<g ref="char:EOLhyphen"/>common,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Piers Fitz-Gerard</hi> of <hi rend="italic">Balliſonan</hi> commonly called <hi rend="blackletterType">Mac Thomas,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Lyſagh Demſey</hi> of the <hi rend="italic">Kings</hi> Countie Eſquire,<!-- LB -->
+<hi rend="blackletterType">Charls O Connor Dun</hi> of <hi rend="italic">Ballinto<g ref="char:EOLhyphen"/>ber</hi> in the Countie of <hi rend="italic">Roſcommon</hi> Eſquire,<!-- LB -->
+<hi rend="blackletterType">Dermot O Brien</hi> of the Countie of <hi rend="italic">Clare,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Richard Grace Mac Iaſper</hi> of the <hi rend="italic">Kings</hi> Countie,<!-- LB -->
+<hi rend="blackletterType">Philip O Dwyre</hi> of the Countie of <hi rend="italic">Tipperary,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Owney O Dwyre</hi> of the County of <hi rend="italic">Tipperary,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Murtagh O Brian</hi> of <hi rend="italic">Annagh</hi> in the ſaid Countie,<!-- LB -->
+<hi rend="blackletterType">Iohn O Kennedy</hi> of <hi rend="italic">Dunnally</hi> in the ſaid Countie,<!-- LB -->
+<hi rend="blackletterType">Murrogh ne Mart O Flagherty</hi> of the Countie of <hi rend="italic">Gallway,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Teige O Flagherty</hi> of the ſaid Countie,<!-- LB -->
+<hi rend="blackletterType">Teige O Connor Roe</hi> of the Countie of <hi rend="italic">Roſ<g ref="char:EOLhyphen"/>common,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Teige O Connor Sligo</hi> of <hi rend="italic">Sligo,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Redmond Bourk Kilcernan</hi> in the Countie of <hi rend="italic">Gallway,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Thomas Bourk</hi> of <hi rend="italic">Anbally</hi> in the Countie of <hi rend="italic">Gallway,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Iohn Brown</hi> of the <hi rend="italic">Neil</hi> in the Countie of <hi rend="italic">Mayo,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Charls O <pb n="6" facs="tcp:133330:5" rendition="simple:additions"/>
+                  <!-- PDF PAGE 11 -->Connor</hi> and <hi rend="blackletterType">Hugh O Connor</hi> brothers of <hi rend="blackletterType">Teige O Connor Sligo,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">Iames Dillon</hi> brother to the Viſ<g ref="char:EOLhyphen"/>count <hi rend="italic">Dillon</hi> of <hi rend="italic">Costillogh,</hi>
+               <!-- LB -->
+               <hi rend="blackletterType">
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Touchet</hi> brother to the Earl of <hi rend="italic">Caſtlehaven,</hi>
+be excepted from Pardon for Life and Eſtate.</p>
+            <p n="4">IV. That all and every Perſon and Perſons (both Princi<g ref="char:EOLhyphen"/>pals and Acceſſaries) who ſince the firſt day of <hi>October,</hi> One thouſand ſix hundred fourtie one, have, or ſhall kill, ſlay, or otherwiſe deſtroy any Perſon or Perſons in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> which at the time of their being ſo killed, ſlain or deſtroyed, were not publickly entertained and maintained in Arms as Officers or private Souldiers, for and on behalf of the <hi>Engliſh</hi> againſt the <hi>Iriſh;</hi> and all and every perſon and perſons (both Principals and Acceſſaries) who ſince the ſaid firſt day of <hi>October,</hi> One thouſand ſix hundred fourtie one, have killed, ſlain, or otherwiſe deſtroyed any perſon or perſons entertained and maintained as Officers or private Souldiers, for and on the behalf of the <hi>Engliſh</hi> againſt the <hi>Iriſh</hi> (the ſaid perſons ſo killing, ſlaying, or o<g ref="char:EOLhyphen"/>therwiſe deſtroying, not being then publickly entertained and maintained in Arms as Officer or private Souldier un<g ref="char:EOLhyphen"/>der the Command and Pay of the <hi>Iriſh</hi> againſt the <hi>Engliſh</hi>) be excepted from Pardon for Life and Eſtate.</p>
+            <p n="5">V. That all and every perſon and perſons in <hi>Ireland,</hi> that are in Arms or otherwiſe in Hoſtilitie againſt the Parlia<g ref="char:EOLhyphen"/>ment of the Common-wealth of <hi>England,</hi> and ſhall not within Eight and twentie days after Publication hereof by the Commiſſioners for the Parliament, or Command<g ref="char:EOLhyphen"/>er in Chief, lay down Arms and ſubmit to the Power and
+<pb n="7" facs="tcp:133330:5"/>
+               <!-- PDF PAGE 11 -->Authoritie of the ſaid Parliament and Common-wealth, as the ſame is now eſtabliſhed, be excepted from Pardon for Life and Eſtate.</p>
+            <p n="6">VI. That all other perſon and perſons (not being compre<g ref="char:EOLhyphen"/>hended in the former Qualifications) who have born Command in the Warr of <hi>Ireland</hi> againſt the Parliament of <hi>England,</hi> or their Forces, as General, Lieutenant Ge<g ref="char:EOLhyphen"/>neral, Major-General, Commiſſarie-General, Colonel, Governour of any Garriſon, Caſtle or Fort, or who have been imployed as Receiver-General or Treaſurer of the whole Nation or any Province thereof, Commiſſarie-General of Muſters or Proviſions; Marſhal-General, or Marſhal of any Province, Advocate of the Armie, or Se<g ref="char:EOLhyphen"/>cretarie to the Councel of Warr, or to any General of the Armie, or of any the ſeveral Provinces, in order to the carrying on the Warr againſt the Parliament or their For<g ref="char:EOLhyphen"/>ces, be Baniſhed during the pleaſure of the Parliament of the Common-wealth of <hi>England,</hi> and their Eſtates for<g ref="char:EOLhyphen"/>feited and diſpoſed of as followeth, <hi>viz.</hi> That two third parts of their reſpective Eſtates be had, taken, and diſpo<g ref="char:EOLhyphen"/>ſed of for the Uſe and Benefit of the ſaid Common<g ref="char:EOLhyphen"/>wealth; And that the other third part of their ſaid re<g ref="char:EOLhyphen"/>ſpective Eſtates or other Lands, to the proportion and va<g ref="char:EOLhyphen"/>lue thereof (to be aſſigned in ſuch places in <hi>Ireland,</hi> as the Parliament, in order to the more effectual Settlement of the Peace of that Nation ſhall think fit to appoint for that purpoſe) be reſpectively had, taken and enjoyed by the Wives and Children of the ſaid perſons reſpectively.</p>
+            <p n="7">VII. That the Commiſſioners of Parliament, &amp; Command<g ref="char:EOLhyphen"/>er
+<pb n="8" facs="tcp:133330:6"/>
+               <!-- PDF PAGE 12 -->in Chief, have power to Declare, That ſuch perſon or perſons as they ſhall judge capable of the Parliaments Mercie (not being comprehended in any of the former Qualifications) who have born Arms againſt the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England</hi> or their Forces, and have laid down Arms, or within Eight and twentie days after Publication hereof by the Commiſſioners for the Parliament, and the Commander in Chief, ſhall lay down Arms, and ſubmit to the Power and Authoritie of the ſaid Parliament and Common-wealth, as the ſame is now eſtabliſhed (by pro<g ref="char:EOLhyphen"/>miſing and engaging to be true to the ſame) ſhall be par<g ref="char:EOLhyphen"/>doned for their Lives, but ſhall forfeit their Eſtates to the ſaid Common-wealth, to be diſpoſed of as followeth, <hi>viz.</hi> Two third parts thereof (in three equal parts to be devided) for the Uſe, Benefit and Advantage of the ſaid Common-wealth, and the other third part of the ſaid re<g ref="char:EOLhyphen"/>ſpective Eſtates or other Lands, to the proportion or va<g ref="char:EOLhyphen"/>lue thereof (to be aſſigned in ſuch places in <hi>Ireland,</hi> as the Parliament, in order to the more effectual Settlement of the peace of that Nation ſhall think fit to appoint for that purpoſe) be enjoyed by the ſaid perſons, their Heirs or Aſſigns reſpectively. Provided, That in caſe the Com<g ref="char:EOLhyphen"/>miſſioners and Commander in Chief, or either of them ſhall ſee cauſe to give any ſhorter time than Twentie eight days, unto any perſon or perſons in Arms, or in any Garriſon, Caſtle or Fort in Hoſtilitie againſt the Parlia<g ref="char:EOLhyphen"/>ment, and ſhall give notice to ſuch perſon or perſons in Arms, or in any Garriſon, Caſtle or Fort, That all and every ſuch perſon and perſons, who ſhall not within ſuch time as ſhall be ſet down in ſuch notice, ſurrender ſuch Garriſon, Caſtle or Fort to the power of the Parliament, and lay down Arms, ſhall have no advantage of the Time formerly limited in this Qualification.</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
